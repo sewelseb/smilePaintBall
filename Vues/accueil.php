@@ -392,23 +392,23 @@
 				<h5>Main Office</h5>
 				
 				<address>
-				  <strong>Squas Design, Inc.</strong><br>
-				  Tower 795 Folsom Ave, Beautiful Suite 600<br>
-				  San Francisco, CA 94107<br>
-				  <abbr title="Phone">P:</abbr> (123) 456-7890
+				  <strong>SMILE paintball network</strong><br>
+				 Bruxelles <br/>
+				 Belgium <br/>
+				 EU<br/>
+				  
 				</address>
 
 				<address>
 				  <strong>Email</strong><br>
-				  <a href="mailto:#">email.name@example.com</a>
+				  <a href="mailto:team@smilepaintball.com">team@smilepaintball.com</a>
 				</address>	
 				<address>
 				  <strong>We're on social networks</strong><br>
                        	<ul class="company-social">
                             <li class="social-facebook"><a href="https://www.facebook.com/smilepaintball?fref=ts" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                            <li class="social-twitter"><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                            <li class="social-dribble"><a href="#" target="_blank"><i class="fa fa-dribbble"></i></a></li>
-                            <li class="social-google"><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                            <li class="social-twitter"><a href="https://twitter.com/SmilePaintball" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                           
                         </ul>	
 				</address>					
 			

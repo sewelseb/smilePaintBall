@@ -306,8 +306,8 @@ hr {
 	width:100%;
 	position:relative;
 	
-	/*background: url(../img/logo.png) no-repeat top center #555c30;*/
-  background: #555c30;
+	background: url(../img/logo.jpg) no-repeat top center #555c30;
+  /*background: #555c30;*/
 }
 
 #intro.intro {
