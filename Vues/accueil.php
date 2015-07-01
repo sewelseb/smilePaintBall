@@ -45,14 +45,14 @@
         <li><a href="#theTeam">The team</a></li>
 		<li><a href="#video">Video</a></li>
 		<li><a href="#contact">Contact</a></li>
-        <li class="dropdown">
+        <!-- <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
           <ul class="dropdown-menu">
             <li><a href="#">Example menu</a></li>
             <li><a href="#">Example menu</a></li>
             <li><a href="#">Example menu</a></li>
           </ul>
-        </li>
+        </li> -->
       </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -64,11 +64,11 @@
     <section id="intro" class="intro">
 	
 		<div class="slogan">
-			<h2>WELCOME TO <span class="text_color">SQUAD</span> </h2>
+			<h2>WELCOME TO <span class="text_color">SMILE</span> </h2>
 			<h4>We promote paintball, we shoot your craziest Scenario/Big Game events to produce action videos to share to the world ! SMILE !</h4>
 		</div>
 		<div class="page-scroll">
-			<a href="#service" class="btn btn-circle">
+			<a href="#theTeam" class="btn btn-circle">
 				<i class="fa fa-angle-double-down animated"></i>
 			</a>
 		</div>
@@ -104,8 +104,8 @@
 				<div class="wow bounceInUp" data-wow-delay="0.2s">
                 <div class="team boxed-grey">
                     <div class="inner">
-						<h5>Anna Hanaceck</h5>
-                        <p class="subtitle">Pixel Crafter</p>
+						<h5>Guillaume Massart</h5>
+                        <p class="subtitle">Team Leader</p>
                         <div class="avatar"><img src="Vues/img/team/1.jpg" alt="" class="img-responsive img-circle" /></div>
                     </div>
                 </div>
@@ -115,8 +115,8 @@
 				<div class="wow bounceInUp" data-wow-delay="0.5s">
                 <div class="team boxed-grey">
                     <div class="inner">
-						<h5>Maura Daniels</h5>
-                        <p class="subtitle">Ruby on Rails</p>
+						<h5>Jesse Saelemaekers</h5>
+                        <p class="subtitle">Video Ninja</p>
                         <div class="avatar"><img src="Vues/img/team/2.jpg" alt="" class="img-responsive img-circle" /></div>
 
                     </div>
@@ -127,8 +127,8 @@
 				<div class="wow bounceInUp" data-wow-delay="0.8s">
                 <div class="team boxed-grey">
                     <div class="inner">
-						<h5>Jack Briane</h5>
-                        <p class="subtitle">jQuery Ninja</p>
+						<h5>Mathias Ghyssens</h5>
+                        <p class="subtitle">Assault Leader</p>
                         <div class="avatar"><img src="Vues/img/team/3.jpg" alt="" class="img-responsive img-circle" /></div>
 
                     </div>
@@ -139,8 +139,44 @@
 				<div class="wow bounceInUp" data-wow-delay="1s">
                 <div class="team boxed-grey">
                     <div class="inner">
-						<h5>Tom Petterson</h5>
-                        <p class="subtitle">Typographer</p>
+						<h5>Pierre Massart</h5>
+                        <p class="subtitle">Medic</p>
+                        <div class="avatar"><img src="Vues/img/team/4.jpg" alt="" class="img-responsive img-circle" /></div>
+
+                    </div>
+                </div>
+				</div>
+            </div>
+            <div class="col-xs-6 col-sm-3 col-md-3">
+				<div class="wow bounceInUp" data-wow-delay="1.4s">
+                <div class="team boxed-grey">
+                    <div class="inner">
+						<h5>Thomas Roumane</h5>
+                        <p class="subtitle">Sniper</p>
+                        <div class="avatar"><img src="Vues/img/team/4.jpg" alt="" class="img-responsive img-circle" /></div>
+
+                    </div>
+                </div>
+				</div>
+            </div>
+            <div class="col-xs-6 col-sm-3 col-md-3">
+				<div class="wow bounceInUp" data-wow-delay="1.6s">
+                <div class="team boxed-grey">
+                    <div class="inner">
+						<h5>Mélissa Tribouillard</h5>
+                        <p class="subtitle">Tech Spetialist</p>
+                        <div class="avatar"><img src="Vues/img/team/4.jpg" alt="" class="img-responsive img-circle" /></div>
+
+                    </div>
+                </div>
+				</div>
+            </div>
+             <div class="col-xs-6 col-sm-3 col-md-3">
+				<div class="wow bounceInUp" data-wow-delay="1.8s">
+                <div class="team boxed-grey">
+                    <div class="inner">
+						<h5>Sébastien de Beauffort</h5>
+                        <p class="subtitle">IT Guy</p>
                         <div class="avatar"><img src="Vues/img/team/4.jpg" alt="" class="img-responsive img-circle" /></div>
 
                     </div>
@@ -313,8 +349,8 @@
 				<hr class="marginbot-50">
 			</div>
 		</div>
-    <div class="row">
-        <div class="col-lg-8">
+    <div class="row text-center">
+       <!--  <div class="col-lg-8">
             <div class="boxed-grey">
                 <form id="contact-form">
                 <div class="row">
@@ -360,8 +396,9 @@
             </div>
         </div>
 		
-		<div class="col-lg-4">
-			<div class="widget-contact">
+		<div class="col-lg-4"> -->
+		<div class="text-center">
+			<!-- <div class="widget-contact"> -->
 				<h5>Main Office</h5>
 				
 				<address>
@@ -378,14 +415,14 @@
 				<address>
 				  <strong>We're on social networks</strong><br>
                        	<ul class="company-social">
-                            <li class="social-facebook"><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            <li class="social-facebook"><a href="https://www.facebook.com/smilepaintball?fref=ts" target="_blank"><i class="fa fa-facebook"></i></a></li>
                             <li class="social-twitter"><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
                             <li class="social-dribble"><a href="#" target="_blank"><i class="fa fa-dribbble"></i></a></li>
                             <li class="social-google"><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
                         </ul>	
 				</address>					
 			
-			</div>	
+			<!-- </div>	 -->
 		</div>
     </div>	
 
@@ -404,7 +441,7 @@
 						</a>
 					</div>
 					</div>
-					<p>&copy;Copyright 2014 - Squad. All rights reserved.</p>
+					<p>Smile team - Video team.</p>
 				</div>
 			</div>	
 		</div>
