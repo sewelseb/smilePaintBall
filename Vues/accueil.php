@@ -123,24 +123,36 @@
 			</div>
 		</div>
         <div class="row">
-            <div class="col-xs-6 col-sm-3 col-md-3">
+        	<div class="col-xs-6 col-sm-3 col-md-3">
 				<div class="wow bounceInUp" data-wow-delay="0.2s">
                 <div class="team boxed-grey">
                     <div class="inner">
-						<h5>Guillaume Massart</h5>
-                        <p class="subtitle">Team Leader</p>
-                        <div class="avatar"><img src="Vues/img/team/1.jpg" alt="" class="img-responsive img-circle" /></div>
+						<h5>Guillaume</h5>
+                        <p class="subtitle">Captain</p>
+                        <div class="avatar"><img src="Vues/img/team/gui.jpg" alt="" class="img-responsive img-circle" /></div>
+
+                    </div>
+                </div>
+				</div>
+            </div>
+            <div class="col-xs-6 col-sm-3 col-md-3">
+				<div class="wow bounceInUp" data-wow-delay="0.4s">
+                <div class="team boxed-grey">
+                    <div class="inner">
+						<h5>Mélissa</h5>
+                        <p class="subtitle">Officer</p>
+                        <div class="avatar"><img src="Vues/img/team/melissa.jpg" alt="" class="img-responsive img-circle" /></div>
                     </div>
                 </div>
 				</div>
             </div>
 			<div class="col-xs-6 col-sm-3 col-md-3">
-				<div class="wow bounceInUp" data-wow-delay="0.5s">
+				<div class="wow bounceInUp" data-wow-delay="0.6s">
                 <div class="team boxed-grey">
                     <div class="inner">
-						<h5>Jesse Saelemaekers</h5>
-                        <p class="subtitle">Video Ninja</p>
-                        <div class="avatar"><img src="Vues/img/team/2.jpg" alt="" class="img-responsive img-circle" /></div>
+						<h5>Jesse</h5>
+                        <p class="subtitle">Officer</p>
+                        <div class="avatar"><img src="Vues/img/team/jesse.jpg" alt="" class="img-responsive img-circle" /></div>
 
                     </div>
                 </div>
@@ -150,9 +162,9 @@
 				<div class="wow bounceInUp" data-wow-delay="0.8s">
                 <div class="team boxed-grey">
                     <div class="inner">
-						<h5>Mathias Ghyssens</h5>
-                        <p class="subtitle">Assault Leader</p>
-                        <div class="avatar"><img src="Vues/img/team/3.jpg" alt="" class="img-responsive img-circle" /></div>
+						<h5>Mathias</h5>
+                        <p class="subtitle">Sniper</p>
+                        <div class="avatar"><img src="Vues/img/team/mathias.jpg" alt="" class="img-responsive img-circle" /></div>
 
                     </div>
                 </div>
@@ -162,45 +174,70 @@
 				<div class="wow bounceInUp" data-wow-delay="1s">
                 <div class="team boxed-grey">
                     <div class="inner">
-						<h5>Pierre Massart</h5>
-                        <p class="subtitle">Medic</p>
-                        <div class="avatar"><img src="Vues/img/team/4.jpg" alt="" class="img-responsive img-circle" /></div>
+						<h5>Pierre</h5>
+                        <p class="subtitle">Gunner and support</p>
+                        <div class="avatar"><img src="Vues/img/team/pierre.jpg" alt="" class="img-responsive img-circle" /></div>
 
                     </div>
                 </div>
 				</div>
             </div>
             <div class="col-xs-6 col-sm-3 col-md-3">
+				<div class="wow bounceInUp" data-wow-delay="1.2s">
+                <div class="team boxed-grey">
+                    <div class="inner">
+						<h5>Chris</h5>
+                        <p class="subtitle">Assault</p>
+                        <div class="avatar"><img src="Vues/img/team/chris.jpg" alt="" class="img-responsive img-circle" /></div>
+
+                    </div>
+                </div>
+				</div>
+            </div>
+            
+             <div class="col-xs-6 col-sm-3 col-md-3">
 				<div class="wow bounceInUp" data-wow-delay="1.4s">
                 <div class="team boxed-grey">
                     <div class="inner">
-						<h5>Thomas Roumane</h5>
-                        <p class="subtitle">Sniper</p>
-                        <div class="avatar"><img src="Vues/img/team/4.jpg" alt="" class="img-responsive img-circle" /></div>
-
-                    </div>
-                </div>
-				</div>
-            </div>
-            <div class="col-xs-6 col-sm-3 col-md-3">
-				<div class="wow bounceInUp" data-wow-delay="1.6s">
-                <div class="team boxed-grey">
-                    <div class="inner">
-						<h5>Mélissa Tribouillard</h5>
-                        <p class="subtitle">Tech Spetialist</p>
-                        <div class="avatar"><img src="Vues/img/team/4.jpg" alt="" class="img-responsive img-circle" /></div>
+						<h5>Seb</h5>
+                        <p class="subtitle">Hacker and Assault</p>
+                        <div class="avatar"><img src="Vues/img/team/seb.jpg" alt="" class="img-responsive img-circle" /></div>
 
                     </div>
                 </div>
 				</div>
             </div>
              <div class="col-xs-6 col-sm-3 col-md-3">
+				<div class="wow bounceInUp" data-wow-delay="1.6s">
+                <div class="team boxed-grey">
+                    <div class="inner">
+						<h5>Bastien</h5>
+                        <p class="subtitle">Gunner and support</p>
+                        <div class="avatar"><img src="Vues/img/team/bastien.jpg" alt="" class="img-responsive img-circle" /></div>
+
+                    </div>
+                </div>
+				</div>
+            </div>
+            <div class="col-xs-6 col-sm-3 col-md-3">
 				<div class="wow bounceInUp" data-wow-delay="1.8s">
                 <div class="team boxed-grey">
                     <div class="inner">
-						<h5>Sébastien de Beauffort</h5>
-                        <p class="subtitle">IT Guy</p>
-                        <div class="avatar"><img src="Vues/img/team/4.jpg" alt="" class="img-responsive img-circle" /></div>
+						<h5>Julie</h5>
+                        <p class="subtitle">Assault and medic</p>
+                        <div class="avatar"><img src="Vues/img/team/julie.jpg" alt="" class="img-responsive img-circle" /></div>
+
+                    </div>
+                </div>
+				</div>
+            </div>
+            <div class="col-xs-6 col-sm-3 col-md-3">
+				<div class="wow bounceInUp" data-wow-delay="2s">
+                <div class="team boxed-grey">
+                    <div class="inner">
+						<h5>Roberto</h5>
+                        <p class="subtitle">Assault</p>
+                        <div class="avatar"><img src="Vues/img/team/roberto.jpg" alt="" class="img-responsive img-circle" /></div>
 
                     </div>
                 </div>
@@ -221,7 +258,7 @@
 				<div class="col-lg-8 col-lg-offset-2">
 					<div class="wow bounceInDown" data-wow-delay="0.4s">
 					<div class="section-heading">
-					<h2>VIDEO</h2>
+					<h2>VIDEOS</h2>
 					<i class="fa fa-2x fa-angle-down"></i>
 
 					</div>
