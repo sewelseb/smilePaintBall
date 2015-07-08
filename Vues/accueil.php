@@ -22,6 +22,7 @@
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+	<!-- JS facebook -->
 	<div id="fb-root"></div>
 		<script>(function(d, s, id) {
 		  var js, fjs = d.getElementsByTagName(s)[0];
@@ -31,6 +32,18 @@
 		  fjs.parentNode.insertBefore(js, fjs);
 		}(document, 'script', 'facebook-jssdk'));
 		</script>
+
+	<!-- JS google annalytics -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-64911145-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
 
 	<!-- Preloader -->
 	<div id="preloader">
@@ -55,6 +68,7 @@
         <li><a href="#theTeam">The team</a></li>
 		<li><a href="#video">Video</a></li>
 		<li><a href="#contact">Contact</a></li>
+
         <!-- <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
           <ul class="dropdown-menu">
@@ -85,7 +99,8 @@
 			
 					<h4 class="largeurMax">
 						We are Media & Paintball Team.<br/>
-						We promote the sport through videos of Scenario Big Games, players, teams and industry actors we media-cover for the world.
+						We promote the sport through videos of Scenario Big Games, players, teams and industry actors we media-cover for the world.<br/>
+
 					</h4>
 				
 			
@@ -340,8 +355,24 @@
         	</div>
         	<div class="row">
         		<a href="https://www.youtube.com/channel/UC8XVTKNss5yDKaap67BcUcg">
-        			<button class="btn btn-skin ">More videos on Youtube</button>
+        			<button class="btn btn-skin ">More on Youtube</button>
         		</a>
+        		<a href="https://www.facebook.com/smilepaintball?fref=ts">
+        			<button class="btn btn-skin ">More on Facebook</button>
+        		</a>
+        	</div>
+        	<div class="row">
+        		<h1>&nbsp;</h1>
+        	</div>
+        	<div class="row">
+        		<div class="fb-like" data-href="https://www.facebook.com/smilepaintball?fref=ts" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+        	</div>
+        	<div class="row">
+        		<h1>&nbsp;</h1>
+        	</div>
+        	<div>
+				<div class="g-ytsubscribe" data-channel="mrfiesta007" data-layout="full" data-count="default"></div>
+
         	</div>
 			
         </div>		
@@ -482,6 +513,8 @@
 	<script src="Vues/js/wow.min.js"></script>
     <!-- Custom Theme JavaScript -->
     <script src="Vues/js/custom.js"></script>
+
+    <script src="https://apis.google.com/js/platform.js"></script>
 
 </body>
 
