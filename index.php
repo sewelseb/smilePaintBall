@@ -24,7 +24,7 @@ if (!empty($_GET['page']) && is_file('Controleurs/'.$_GET['page'].'.php'))
 	}
 	else
 	{
-		include_once ('./Modeles/conexionBDD.php');
+		include_once ('./Modeles/connexionBDD.php');
 		include ('Controleurs/'.$_GET['page'].'.php');
 	}
 }

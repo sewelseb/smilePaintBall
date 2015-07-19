@@ -13,8 +13,9 @@
      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 
     <!-- Fonts -->
-    <link href="Vues/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 	<link href="Vues/css/animate.css" rel="stylesheet" />
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
     <!-- Squad theme CSS -->
     <link href="Vues/css/style.css" rel="stylesheet">
 	<link href="Vues/color/default.css" rel="stylesheet">
@@ -67,6 +68,7 @@
         <li class="active"><a href="#intro">Home</a></li>
         <li><a href="#theTeam">The team</a></li>
 		<li><a href="#video">Video</a></li>
+		<li><a href="#sponsors">Sponsors</a></li>
 		<li><a href="#contact">Contact</a></li>
 
         <!-- <li class="dropdown">
@@ -379,8 +381,106 @@
 		</div>
 	</section>
 	<!-- /Section: services -->
+	<!-- Section: intro -->
+    <section id="sponsors" class="home-section text-center bg-gray">
 	
+		<div class="heading-about">
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<div class="wow bounceInDown" data-wow-delay="0.2s">
+					<div class="section-heading">
+					<h2>Sponsors</h2>
+					<i class="fa fa-2x fa-angle-down"></i>
 
+					</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+		<div class="container">
+		<div class="row">
+			<div class="col-lg-2 col-lg-offset-5">
+				<hr class="marginbot-50">
+			</div>
+		</div>
+		<div class="row">
+			<button class="btn btn-skin " data-toggle="modal" data-target="#modalSponsors">Sponsor us</button>
+		</div>
+		<div class="row">
+    		<h1>&nbsp;</h1>
+    	</div>
+		<div class="row wow bounceInUp" data-wow-delay="0.2s">
+			<a href="http://www.redbull.com/be/fr">
+				<img src="Vues/img/sponsors/redbull-com-logo.png" width="500em">
+			</a>
+			
+		</div>
+		<div class="row">
+    		<h1>&nbsp;</h1>
+    	</div>
+		<div class="row wow bounceInUp" data-wow-delay="0.4s">
+			<a href="http://www.kg-factory.fr/fr/">
+				<img src="Vues/img/sponsors/kg-factory.jpg" width="500em">
+			</a>
+			
+		</div>
+		<div class="row">
+    		<h1>&nbsp;</h1>
+    	</div>
+		<div class="row wow bounceInUp" data-wow-delay="0.6s">
+			<a href="http://www.patch-werk.com/index.php/en/">
+				<img src="Vues/img/sponsors/patch-werk.png" width="500em">
+			</a>
+			
+		</div>
+		<div class="row">
+    		<h1>&nbsp;</h1>
+    	</div>
+		<div class="row">
+			<button class="btn btn-skin " data-toggle="modal" data-target="#modalSponsors">Sponsor us</button>
+		</div>
+    </section>
+    <!-- Modal -->
+	<div id="modalSponsors" class="modal fade" role="dialog">
+	  <div class="modal-dialog">
+
+	    <!-- Modal content-->
+	    <form method="POST" action="index.php?page=messageSponsorsRegister">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		        <button type="button" class="close" data-dismiss="modal">&times;</button>
+		        <h4 class="modal-title">Sponsor us</h4>
+		      </div>
+		      
+			      <div class="modal-body">
+			        	<div class="input-group">
+						  <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+						  <input type="text" class="form-control" id="name" name="name" placeholder="name" required>
+						</div>
+						<br/>
+						<div class="input-group">
+							<span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+						  <input type="email" class="form-control" id="mail" name="mail" placeholder="my_e-mail@gmail.com" required>
+						</div>
+						<br/>
+						<div class="input-group">
+							
+							<span class="input-group-addon"><i class="glyphicon glyphicon-pencil"></i></span>
+						  <textarea class="form-control" rows="5" id="message" name="message" placeholder="Your message" required></textarea>
+						</div>
+						<br/>
+						
+			      </div>
+		  	  
+		      <div class="modal-footer">
+		        <input type="submit" value="Send" class="btn btn-skin">
+		      </div>
+		    </div>
+	    </form>
+	  </div>
+	</div>
 	
 
 	<!-- Section: contact -->
